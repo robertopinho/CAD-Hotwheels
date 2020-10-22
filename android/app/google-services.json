@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77265745291",
+    "firebase_url": "https://hotwheels-cad.firebaseio.com",
+    "project_id": "hotwheels-cad",
+    "storage_bucket": "hotwheels-cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77265745291:android:fdd10aae62dd137dbf2b8e",
+        "android_client_info": {
+          "package_name": "com.example.hotwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77265745291-n1brkgs362voo4s46m1k4ielif5kjua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBysZBTDl-h9MsZU2Ob_A7Wwe6Ruvvo6Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77265745291-n1brkgs362voo4s46m1k4ielif5kjua0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
